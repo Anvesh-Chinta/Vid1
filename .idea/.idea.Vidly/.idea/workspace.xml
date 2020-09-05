@@ -10,6 +10,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Vidly/Models/Movies.cs" />
+        <option value="$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" />
+        <option value="$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1h4BHM3WJwIbIfwGXHOBOP3UtXB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
   </component>
   <component name="RunManager">
     <configuration name="Vidly" type="DotNetProject" factoryName=".NET Project">
@@ -51,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599260394577</updated>
-      <workItem from="1599260402363" duration="299000" />
+      <workItem from="1599260402363" duration="1354000" />
     </task>
     <servers />
   </component>
@@ -68,5 +78,9 @@
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state x="320" y="158" key="Rider.ProjectTemplateDialog.Size/0.23.1440.793@0.23.1440.793" timestamp="1599260394462" />
+    <state x="221" y="58" key="SettingsEditor" timestamp="1599265242593">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="221" y="58" key="SettingsEditor/0.23.1440.795@0.23.1440.795" timestamp="1599265242593" />
   </component>
 </project>
